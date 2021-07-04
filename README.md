@@ -69,7 +69,7 @@
 
 ## 关注我们
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gs4yhidbilj30by0bygmk.jpg)
+![Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。](https://tva1.sinaimg.cn/large/008i3skNgy1gs4yhidbilj30by0bygmk.jpg)
 
 ## LICENSE
 
