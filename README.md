@@ -4,7 +4,6 @@
 
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gs40j25kzfj30ts0d0q3g.jpg)
 
-本项目《Wow-Plotly》是Datawhale🐳数据可视化小组的一个开源项目。
 
 作为一名和数据经常打交道的人，数据可视化在我们生活中随处可见，它也是每一位数据人都无法避免的问题。有句话讲的好：
 
@@ -70,7 +69,8 @@
 
 ## 关注我们
 
-![Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。](https://camo.githubusercontent.com/7a431bc7f5b3f5d16c3dd62e3aec85860ff16f6f4e8ae0dfc94e447f0d290d0a/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303231303630373232303334373335392e706e67)
+![Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。](https://tva1.sinaimg.cn/large/008i3skNgy1gs4yhidbilj30by0bygmk.jpg)
+
 
 ## LICENSE
 
